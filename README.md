@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Kaspersky Internet Security interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Adobe_After_Effects_screenshot.png/1280px-Adobe_After_Effects_screenshot.png" />
+<img width="2880" height="1620" alt="Kaspersky Internet Security interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Kaspersky_Standard.jpg/1280px-Kaspersky_Standard.jpg" />
 </div>
 
 ---
